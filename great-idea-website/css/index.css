@@ -93,6 +93,11 @@ h1 {
 	width: 50%;
 }
 
+.btn {
+	border: 1px solid black;
+	padding: 5px;
+}
+
 .circle-pic {
 	display: inline-block;
 	margin: 20px 20px;
