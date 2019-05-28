@@ -65,6 +65,11 @@ h1, h2, h3, h4, h5 {
 
 /* Your code starts here! */
 
+header {
+	margin-top: 30px;
+	margin-bottom: 50px;
+}
+
 header a {
 	color: grey;
 	text-decoration: none;
@@ -91,4 +96,5 @@ h1 {
 .circle-pic {
 	display: inline-block;
 	margin: 20px 20px;
+
 }
