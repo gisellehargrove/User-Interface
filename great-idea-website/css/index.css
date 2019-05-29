@@ -64,6 +64,9 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+body {
+	padding: 50px;
+}
 
 header {
 	margin-top: 30px;
@@ -73,7 +76,7 @@ header {
 header a {
 	color: grey;
 	text-decoration: none;
-	margin: 20px 70px;
+	margin: 20px 60px;
 
 }
 
@@ -93,12 +96,20 @@ h1 {
 	width: 50%;
 }
 
+.on-header {
+	padding-left: 100px;
+}
+
+.demand-header {
+	padding-left: 33px;
+}
+
 .btn {
 	border: 1px solid black;
 	padding: 5px 30px;
 	text-decoration: none;
 	color: black;
-	margin-left: 30%;
+	margin-left: 35%;
 }
 
 .circle-pic {
@@ -108,20 +119,27 @@ h1 {
 }
 
 .section1 {
-
+	margin: 50px 0px;
 }
 
 .section2 {
+	padding: 50px 0px;
 	border-top: 1px solid black;
 	border-bottom: 1px solid black;
 }
 
-.about-container {
-	width: 30%;
+.features-container {
+	width: 45%;
 	display: inline-block;
 }
 
-.features-container {
-	width: 30%;
+.about-container {
+	padding-left: 50px;
+	width: 45%;
 	display: inline-block;
+}
+
+.middle-img {
+	width: 100%;
+	margin: 50px 0px;
 }
