@@ -143,3 +143,18 @@ h1 {
 	width: 100%;
 	margin: 50px 0px;
 }
+
+.services-container {
+	width: 35%;
+	display: inline-block;
+}
+
+.product-container {
+	width: 30%;
+	display: inline-block;
+}
+
+.vision-container {
+	width: 34%;
+	display: inline-block;
+}
