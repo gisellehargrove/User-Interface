@@ -84,9 +84,9 @@ header a {
 }
 
 header a:hover {
+	font-style: italic;
 	color: red;
 	font-size: 30px;
-	font-weight: bolder;
 }
 
 header img {
@@ -120,6 +120,11 @@ h1 {
 	text-decoration: none;
 	color: black;
 	margin-left: 35%;
+}
+
+.btn:hover {
+	color: blue;
+	font-style: italic;
 }
 
 .circle-pic {
