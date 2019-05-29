@@ -115,3 +115,13 @@ h1 {
 	border-top: 1px solid black;
 	border-bottom: 1px solid black;
 }
+
+.about-container {
+	width: 30%;
+	display: inline-block;
+}
+
+.features-container {
+	width: 30%;
+	display: inline-block;
+}
